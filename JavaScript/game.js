@@ -27,7 +27,7 @@ for(var i = 0; i < 4; i++){
         });
     $(".chrystals").append(chrystal);
     $('.chrystal').empty();
-    $('.chrystal').prepend('<img id="red_crystal" src="/Users/andrewmayo/Desktop/Unit-4-HW/Assets/Images/redClear.png"/>');
+    $('.chrystal').prepend('<img id="red_crystal" src="Assets/Images/redClear.png"/>');
    
 }}
 
